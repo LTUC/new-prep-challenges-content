@@ -13,7 +13,7 @@
 //  Write a function that takes an object and returns the formatted text based on the provided object as the example:
 // 
 // Input:
-//  let obj = {
+//  const obj = {
 //      firstName: 'Ellie',
 //      lastName: 'jon',
 //      age: 67,
@@ -26,7 +26,7 @@
 //  1- The text template is "my name is ** ** I am ** YO, and I love **."
 //  2- The first letters of the firstName and lastName should be capital letter
 
-const objLat = (obj) => {
+const objLit = (obj) => {
   // write your code here
 };
 
@@ -40,7 +40,7 @@ const objLat = (obj) => {
 // the string format is "Customer Name :*** *** , Age :**"
 
 // Input:
-// {
+// const obj = {
 //     "Romio Joliat": 35,
 //     "Mario Ristrova": 39,
 //     "Sofia firnando": 50,
@@ -55,6 +55,6 @@ const customerAndAge = (obj) => {
 // -------------------------------------------------------------------------------------------------------
 
 module.exports = {
-  objLat,
+  objLit,
   customerAndAge
 };

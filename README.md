@@ -1,18 +1,7 @@
-# problem-space
+# Prep Problem Solving
 
-- [day-06](day-06/Challenge06.js)
-
-
-## things to check for:
-* the test of code challenge is running with no errors
-* the description of the cc is clear and easy to understand by the students
-* the examples inside the description are all correct
-
-
-## Code Challenge 01:
-* find max value in array
-* find sum of numeric values in array
-
-## Code Challenge 02:
-* Reverse array
-* 
+## Table of Content:
+- [Day 01](day-01/Challenge01.js)
+- [Day 02](day-02/Challenge02.js)
+- [Day 03](day-03/Challenge03.js)
+- [Day 03](day-03/Challenge03.js)

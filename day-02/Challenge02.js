@@ -24,7 +24,7 @@ const reverseArray = (arr) => {
 //  Output: [30, 64, 99, 51]
 
 const arrInc = (arr) => {
-  let result = [];
+  const result = [];
   // write your code here
   return result;
 };
