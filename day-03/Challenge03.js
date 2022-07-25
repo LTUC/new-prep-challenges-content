@@ -24,7 +24,7 @@
 
 //  Note that:
 //  1- The text template is "my name is ** ** I am ** YO, and I love **."
-//  2- The first letters of the firstName and lastName should be capital letter
+//  2- The first letter of the firstName and lastName should be capital letter
 
 const objLit = (obj) => {
   // write your code here
