@@ -2,7 +2,7 @@
 
 // -------------------------------------------------------------------------------------------------------
 // Challenge 01:
-// Optional:
+// Required:
 //
 // Write a function that takes an array and returns an array contains the running sum of the original array.
 
