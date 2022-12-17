@@ -1,10 +1,10 @@
 # Prep Problem Solving
 
 ## Table of Content:
-- [Day 01](day-01/Challenge01.js)
-- [Day 02](day-02/Challenge02.js)
-- [Day 03](day-03/Challenge03.js)
-- [Day 04](day-04/Challenge04.js)
+- [Day 01](Code-Challenge-01/Challenge01.js)
+- [Day 02](Code-Challenge-02/Challenge02.js)
+- [Day 03](Code-Challenge-03/Challenge03.js)
+- [Day 04](Code-Challenge-04/Challenge04.js)
 
 
 > Important:
